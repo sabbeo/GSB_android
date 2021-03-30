@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GSB</string>
+    <string name="maj_d_un_echantillon">Maj d’un echantillon</string>
+    <string name="application_de_gestion_des_chantillons_de_compl_ments_alimentaires">Application de gestion des échantillons de compléments alimentaires</string>
+    <string name="ajouter_un_nouvel_chantillon">Ajouter un nouvel échantillon</string>
+    <string name="liste_des_echantillons">liste des echantillons</string>
+    <string name="saisie_d_un_chantillon">Saisie d’un échantillon</string>
+    <string name="name">Name</string>
+    <string name="string_saisir_ici_un_libell" />
+    <string name="saisir_ici_un_stock">saisir ici un stock</string>
+    <string name="saisir_ici_un_libell">saisir ici un libellé</string>
+    <string name="saisir_ici_un_code">saisir ici un code</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="retour">Retour</string>
+    <string name="liste_des_chantillons">Liste des échantillons</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="saisir_ici_une_quantit">Saisir ici une quantité</string>
+    <string name="mnuAjout" />
+    <string name="mnuListe" />
+    <string name="mnuMaj" />
+    <string name="mnuQuitter" />
+    <string name="textview">TextView</string>
+
+
+</resources>
